@@ -1,14 +1,13 @@
 ---
 name: Homework 5
-tools: [Python, Altair, VegaLite]
-description: My submission for HW5!
+tools: [Python, Altair, vega-lite]
+description: Submission for HW5
 custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
-
 
 # Chart 1
 
